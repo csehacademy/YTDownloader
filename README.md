@@ -1,5 +1,4 @@
-# YTDownloader
-## Youtube Downloader
+# Youtube Downloader
 
 ## Requirement Installations
 
